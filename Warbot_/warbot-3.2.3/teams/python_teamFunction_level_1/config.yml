@@ -1,0 +1,14 @@
+Name: White Base
+IconPath: dekat.png
+SoundPath: dekat.mp3
+Description: |
+    Equipe de Gundams suréquipés qui vont niquer du Zaku
+BrainsPackage: inGameTeams.python_teamFunction_level_1
+ScriptImplementation: python
+AgentsBrainClasses:
+    WarBase: MyWarBase.py
+    WarExplorer: MyWarExplorer.py
+    WarRocketLauncher: MyWarRocketLauncher.py
+    WarKamikaze: MyWarKamikaze.py
+    WarEngineer: MyWarEngineer.py
+    WarTurret: MyWarTurret.py

@@ -1,0 +1,3 @@
+
+def actionMyAgent():
+	return move();
